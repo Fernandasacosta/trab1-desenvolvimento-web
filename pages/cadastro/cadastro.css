@@ -1,0 +1,16 @@
+form {
+	padding: 10px;
+	background-color: lightpink;
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	gap: 2rem;
+	flex-direction: column;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
